@@ -4,14 +4,16 @@
       {
         "identifier": "space.f4d3z.tweak",
         "name": "TestTweak",
-        "url": "https://raw.githubusercontent.com/ethereus/InstallerRepo/main/Test.txt",
+        "url": "github.com",
+        "location": "https://raw.githubusercontent.com/ethereus/InstallerRepo/main/Test.txt",
         "type": "Tweak",
         "version": "0.2"
       },
       {
         "identifier": "space.f4d3z.app",
         "name": "TestApp",
-        "url": "https://raw.githubusercontent.com/ethereus/InstallerRepo/main/Test.txt",
+        "url": "github.com",
+        "location": "https://raw.githubusercontent.com/ethereus/InstallerRepo/main/Test.txt",
         "type": "App",
         "version": "0.2"
       }
